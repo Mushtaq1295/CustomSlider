@@ -1,4 +1,4 @@
-# Custom Slider
+![image](https://github.com/user-attachments/assets/f83a8f4c-5940-4695-a5a3-483b30292c49)# Custom Slider
 
 ## Overview
 Custom Slider is a lightweight and responsive image slider built using HTML, CSS, and JavaScript. It allows images to transition smoothly with motion effects. In the future, additional features and functionalities will be added to enhance the user experience.
@@ -14,6 +14,9 @@ Custom Slider is a lightweight and responsive image slider built using HTML, CSS
 - **CSS**: Styling and animations
 - **JavaScript**: Handling image transitions and slider controls
 
+## Live Link:
+https://mushtaqs-custom.netlify.app/
+
 ## Installation
 1. Clone the repository:
    ```sh
@@ -21,7 +24,7 @@ Custom Slider is a lightweight and responsive image slider built using HTML, CSS
    ```
 2. Navigate to the project folder:
    ```sh
-   cd custom-slider
+   cd CustomSlider
    ```
 3. Open `index.html` in your browser.
 
@@ -43,8 +46,6 @@ Feel free to fork the repository and submit pull requests to enhance functionali
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For any suggestions or issues, please reach out via [your email or GitHub profile].
-
 images:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/f8fa2745-f587-4954-9170-8e0f961095a9)
+
